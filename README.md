@@ -1,0 +1,1 @@
+# forex-data-analysis-project
